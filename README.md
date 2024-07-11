@@ -17,3 +17,4 @@ and then deploying it to the cloud. Also, then the endpoint can be tested using 
 
 ![testOnPostman](src/assets/postmanTesting.png)
 
+
